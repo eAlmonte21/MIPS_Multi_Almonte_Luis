@@ -22,16 +22,6 @@ module MIPS_Multi_Cycle
 		output [5:0] Funct, 
 		output zero,
 		output [7:0] GPIO_O
-		
-	/*	output [31:0] Reg_Inst_o,
-		      Program_Counter_o,
-		      RegFile_A_o,
-		      RegFile_B_o,
-		      Sign_Ext_o,
-		      Mux_WD_o,
-		      Mux_A_o,
-		      Mux_B_o,
-		      ALU_Result_o,*/
 
 );
 
